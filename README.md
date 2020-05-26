@@ -1,0 +1,1 @@
+# heceleme_programi_linux
